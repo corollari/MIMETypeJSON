@@ -1,5 +1,14 @@
 # MIMETypeJSON
 Huge dictionary of file extensions to mime types formatted in JSON
+```
+{
+    "mp3": "audio/mpeg",
+    "ogg": "audio/ogg",
+    ...
+    "ppt": "application/vnd.ms-powerpoint",
+    "man": "application/x-troff-man"
+}
+```
 
 ## Clone
 ```bash
