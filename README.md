@@ -10,3 +10,6 @@ git clone --recursive https://github.com/corollari/MIMETypeJSON.git
 ```bash
 python build.py
 ```
+
+## Credits
+This project is based on [MimeTypeMap](https://github.com/samuelneff/MimeTypeMap)
